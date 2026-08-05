@@ -70,7 +70,7 @@ Please write your synthetic data directory path in `UNIVERS/configs/univers/univ
 Please run the following command to train the model:
 ```
 cd UNIVERS/tools
-CUDA_VISIBLE_DEVICES=0 python train.py configs/samv2/samv2.py --auto-resume --no-validate
+CUDA_VISIBLE_DEVICES=0 python train.py configs/univers/univers.py --auto-resume --no-validate
 ```
 
 ### Inference
