@@ -116,7 +116,7 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgement
 
-- Some codes are modified from [Anatomix](https://github.com/neel-dey/anatomix/), [UAE](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2/).
+- Some codes are modified from [Anatomix](https://github.com/neel-dey/anatomix/), [UAE](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2/), [nnUNet](https://github.com/mic-dkfz/nnunet/).
 
 ## 📝 Citation
 
