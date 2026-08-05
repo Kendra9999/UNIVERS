@@ -94,7 +94,7 @@ python demo_stable_points.py \
   --img2-file /path/to/img2-file.nii.gz \
   --query-point query_point_coordinate
 ```
-Note that the above demo file are for CT images. If you use MR images, please modify the intensity preprocessing code in the loading function.
+Note that the above demo files are for CT images. If you use MR images, please modify the intensity preprocessing code in the loading function.
 
 #### Evaluate in the Deep Longitudinal Study (DLS) dataset
 Please follow the instruction in [DLT](https://github.com/JimmyCai91/DLT/) to download the test images and the ground truth json files.
