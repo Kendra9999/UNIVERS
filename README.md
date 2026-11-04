@@ -1,4 +1,4 @@
-# UNIVERS: Learning UNIversal Voxel-wise Embedding via Randomized Synthesis for generalizable one-shot landmark localization
+# UNIVERS: Learning UNIversal Voxel-wise Anatomical Embedding via Randomized Synthesis
 
 Derong Yu, Guoyan Zheng
 
